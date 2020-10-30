@@ -1,3 +1,4 @@
+// code adapted from here: https://www.npmjs.com/package/express-session
 const express = require('express');
 const session = require('express-session');
 
